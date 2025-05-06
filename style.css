@@ -21,6 +21,20 @@ section h4 , h2{
   color: #343D68;
 }
 .skills-icon{
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 50px;
+}
+.border-gradient {
+  padding: 1rem;
+  position: relative;
+  border-image: linear-gradient(to right, #0D54BE, #20ECD3) 1; 
+  padding: 3px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.border-gradient img {
+  background: white;
+  display: block;
+  padding: 5px;
 }
