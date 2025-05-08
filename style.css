@@ -1,9 +1,7 @@
 * {
   font-family: Be Vietnam;
 }
-body {
-  /* background-image: linear-gradient(#1DD5D0, #4F47C8,); */
-}
+
 header {
   background-color: #fcfcfc;
 }
@@ -37,4 +35,7 @@ section h4 , h2{
   background: white;
   display: block;
   padding: 5px;
+}
+.projects{
+  background-color: #343D68;
 }
