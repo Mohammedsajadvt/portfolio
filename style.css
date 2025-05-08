@@ -36,6 +36,23 @@ section h4 , h2{
   display: block;
   padding: 5px;
 }
-.projects{
+.custom-backround{
   background-color: #343D68;
+}
+.form-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.custom-input,
+.custom-textarea {
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border: none;
+  padding: 15px;
+}
+
+.custom-textarea {
+  min-height: 150px;
+  resize: none;
 }
